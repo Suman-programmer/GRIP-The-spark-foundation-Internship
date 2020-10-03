@@ -9,6 +9,8 @@ Look at the connections of your existing network and add others who have reputed
 Add and follow all the members on the TSF page.<br>
 Join the TSF network and post your questions/ queries there.<br>
 
+LinkedIn Link: https://www.linkedin.com/in/dandapatsuman/
+
 
 ## Task 2 - To Explore Supervised Machine Learning
 In this regression task we will predict the percentage of
